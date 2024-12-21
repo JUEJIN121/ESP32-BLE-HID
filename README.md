@@ -2,8 +2,7 @@
 This library enables ESP32 development boards to function as Bluetooth HID devices, supporting features such as keyboard input, absolute mouse control, and two-way communication.
 
 ## Contact Me
-- QQ群: 710985269
-- QQ: 3560000009
+- QQ: 76532393
 
 ## Installation
 - In the Arduino IDE go to "Sketch" -> "Include Library" -> "Add .ZIP Library..." and select the file you just downloaded.
